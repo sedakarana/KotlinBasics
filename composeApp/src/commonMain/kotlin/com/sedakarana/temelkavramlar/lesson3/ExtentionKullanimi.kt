@@ -8,6 +8,7 @@ fun main() {
 
 }
 
+// Var olan yapının genişletilerek kullanıldığı fonksiyonlardır. Mesela burada Integer sınıfına carpı ve toplama ekledik
 fun Int.carpi (sayi1:Int): Int{
     return this*sayi1
 }
